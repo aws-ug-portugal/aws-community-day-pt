@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://awscommunityday.pt/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-03T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/agenda/dinner/</loc>
+    <loc>http://localhost:1313/agenda/dinner/</loc>
     <lastmod>2024-10-03T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/agenda/</loc>
+    <loc>http://localhost:1313/agenda/</loc>
     <lastmod>2024-10-03T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/agenda/13/</loc>
+    <loc>http://localhost:1313/agenda/13/</loc>
     <lastmod>2024-10-03T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/agenda/lunch/</loc>
+    <loc>http://localhost:1313/agenda/lunch/</loc>
     <lastmod>2024-10-03T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/agenda/10/</loc>
+    <loc>http://localhost:1313/agenda/10/</loc>
     <lastmod>2024-10-03T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/sessions/dev401/</loc>
+    <loc>http://localhost:1313/sessions/dev401/</loc>
     <lastmod>2024-10-03T09:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/sessions/</loc>
+    <loc>http://localhost:1313/sessions/</loc>
     <lastmod>2024-10-03T09:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/agenda/09/</loc>
+    <loc>http://localhost:1313/agenda/09/</loc>
     <lastmod>2024-10-03T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/sessions/arc101/</loc>
+    <loc>http://localhost:1313/sessions/arc101/</loc>
     <lastmod>2024-10-03T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://awscommunityday.pt/edition/2020/</loc>
+    <loc>http://localhost:1313/edition/2020/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/sponsors/amazon/</loc>
+    <loc>http://localhost:1313/sponsors/amazon/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tracks/architecture/</loc>
+    <loc>http://localhost:1313/tracks/architecture/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/sponsors/aws/</loc>
+    <loc>http://localhost:1313/sponsors/aws/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/rooms/ballroom/</loc>
+    <loc>http://localhost:1313/rooms/ballroom/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/code-of-conduct/</loc>
+    <loc>http://localhost:1313/code-of-conduct/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tracks/containers/</loc>
+    <loc>http://localhost:1313/tracks/containers/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tracks/cost-optimization/</loc>
+    <loc>http://localhost:1313/tracks/cost-optimization/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/crew/</loc>
+    <loc>http://localhost:1313/crew/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tracks/developer/</loc>
+    <loc>http://localhost:1313/tracks/developer/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/rooms/expo/</loc>
+    <loc>http://localhost:1313/rooms/expo/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/crew/jeff-barr/</loc>
+    <loc>http://localhost:1313/crew/jeff-barr/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/speakers/jeff-barr/</loc>
+    <loc>http://localhost:1313/speakers/jeff-barr/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/rooms/lounge/</loc>
+    <loc>http://localhost:1313/rooms/lounge/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tracks/monitoring/</loc>
+    <loc>http://localhost:1313/tracks/monitoring/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/edition/</loc>
+    <loc>http://localhost:1313/edition/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/rooms/</loc>
+    <loc>http://localhost:1313/rooms/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tracks/security/</loc>
+    <loc>http://localhost:1313/tracks/security/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/speakers/</loc>
+    <loc>http://localhost:1313/speakers/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/sponsors/</loc>
+    <loc>http://localhost:1313/sponsors/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/styleguide/</loc>
+    <loc>http://localhost:1313/styleguide/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/tracks/</loc>
+    <loc>http://localhost:1313/tracks/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/crew/werner-vogels/</loc>
+    <loc>http://localhost:1313/crew/werner-vogels/</loc>
   </url><url>
-    <loc>https://awscommunityday.pt/speakers/werner-vogels/</loc>
+    <loc>http://localhost:1313/speakers/werner-vogels/</loc>
   </url>
 </urlset>

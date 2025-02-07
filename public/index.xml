@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS Community Day</title>
-    <link>https://awscommunityday.pt/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on AWS Community Day</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Oct 2024 18:00:00 +0000</lastBuildDate>
-    <atom:link href="https://awscommunityday.pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>18:00 - 20:00 Dinner</title>
-      <link>https://awscommunityday.pt/agenda/dinner/</link>
+      <link>http://localhost:1313/agenda/dinner/</link>
       <pubDate>Thu, 03 Oct 2024 18:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/agenda/dinner/</guid>
+      <guid>http://localhost:1313/agenda/dinner/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam harum quod nihil et! Numquam voluptate architecto nulla, maiores nobis reprehenderit officia debitis voluptatem eos itaque quam iste nesciunt quas?&lt;/p&gt;</description>
     </item>
     <item>
       <title>13:00 - 14:00</title>
-      <link>https://awscommunityday.pt/agenda/13/</link>
+      <link>http://localhost:1313/agenda/13/</link>
       <pubDate>Thu, 03 Oct 2024 13:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/agenda/13/</guid>
+      <guid>http://localhost:1313/agenda/13/</guid>
       <description></description>
     </item>
     <item>
       <title>12:00 - 13:00 Lunch</title>
-      <link>https://awscommunityday.pt/agenda/lunch/</link>
+      <link>http://localhost:1313/agenda/lunch/</link>
       <pubDate>Thu, 03 Oct 2024 12:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/agenda/lunch/</guid>
+      <guid>http://localhost:1313/agenda/lunch/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam harum quod nihil et! Numquam voluptate architecto nulla, maiores nobis reprehenderit officia debitis voluptatem eos itaque quam iste nesciunt quas?&lt;/p&gt;</description>
     </item>
     <item>
       <title>10:00 - 11:00</title>
-      <link>https://awscommunityday.pt/agenda/10/</link>
+      <link>http://localhost:1313/agenda/10/</link>
       <pubDate>Thu, 03 Oct 2024 10:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/agenda/10/</guid>
+      <guid>http://localhost:1313/agenda/10/</guid>
       <description></description>
     </item>
     <item>
       <title>Aliquam accumsan ligula quis nisi tempor</title>
-      <link>https://awscommunityday.pt/sessions/dev401/</link>
+      <link>http://localhost:1313/sessions/dev401/</link>
       <pubDate>Thu, 03 Oct 2024 09:15:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/sessions/dev401/</guid>
+      <guid>http://localhost:1313/sessions/dev401/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>09:00 - 10:00</title>
-      <link>https://awscommunityday.pt/agenda/09/</link>
+      <link>http://localhost:1313/agenda/09/</link>
       <pubDate>Thu, 03 Oct 2024 09:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/agenda/09/</guid>
+      <guid>http://localhost:1313/agenda/09/</guid>
       <description></description>
     </item>
     <item>
       <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit</title>
-      <link>https://awscommunityday.pt/sessions/arc101/</link>
+      <link>http://localhost:1313/sessions/arc101/</link>
       <pubDate>Thu, 03 Oct 2024 09:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/sessions/arc101/</guid>
+      <guid>http://localhost:1313/sessions/arc101/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020</title>
-      <link>https://awscommunityday.pt/edition/2020/</link>
+      <link>http://localhost:1313/edition/2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/edition/2020/</guid>
+      <guid>http://localhost:1313/edition/2020/</guid>
       <description>&lt;div class=&#34;bg-hexagon-rt&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;row&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;col-12 col-lg-8 py-5&#34;&gt;&#xD;&#xA;                &lt;div class=&#34;h1&#34;&gt;AWS Community Day&lt;/div&gt;&#xD;&#xA;                &lt;div class=&#34;h4&#34;&gt;OCT. 3, 2020 | AMSTERDAM | 09:00 - 18:00&lt;/div&gt;&#xD;&#xA;                &lt;div class=&#34;lead&#34;&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam harum quod nihil et! Numquam voluptate architecto nulla, maiores nobis reprehenderit officia debitis voluptatem eos itaque quam iste nesciunt quas?&lt;/div&gt;&#xD;&#xA;                &lt;div class=&#34;buttons my-3&#34;&gt;&#xD;&#xA;                    &lt;a href=&#34;#&#34; class=&#34;btn btn-acd&#34;&gt;View Pictures&lt;/a&gt;&#xD;&#xA;                &lt;/div&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Amazon</title>
-      <link>https://awscommunityday.pt/sponsors/amazon/</link>
+      <link>http://localhost:1313/sponsors/amazon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/sponsors/amazon/</guid>
+      <guid>http://localhost:1313/sponsors/amazon/</guid>
       <description></description>
     </item>
     <item>
       <title>Architecture</title>
-      <link>https://awscommunityday.pt/tracks/architecture/</link>
+      <link>http://localhost:1313/tracks/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/architecture/</guid>
+      <guid>http://localhost:1313/tracks/architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS</title>
-      <link>https://awscommunityday.pt/sponsors/aws/</link>
+      <link>http://localhost:1313/sponsors/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/sponsors/aws/</guid>
+      <guid>http://localhost:1313/sponsors/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>Ballroom</title>
-      <link>https://awscommunityday.pt/rooms/ballroom/</link>
+      <link>http://localhost:1313/rooms/ballroom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/rooms/ballroom/</guid>
+      <guid>http://localhost:1313/rooms/ballroom/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code of conduct</title>
-      <link>https://awscommunityday.pt/code-of-conduct/</link>
+      <link>http://localhost:1313/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/code-of-conduct/</guid>
+      <guid>http://localhost:1313/code-of-conduct/</guid>
       <description>&lt;p&gt;We firmly believe in the value and importance of an environment where all AWS community members feel welcome and safe. This Code of Conduct explains what type of behavior we expect from AWS community members interacting at live events, virtual events, and across AWS blogs, online forums, and social media. The purpose of our AWS events, both live and virtual, and community engagement across social media forums is to foster technical and professional education and encourage community discussion. The terms of this Code of Conduct are non-negotiable. We will not tolerate behavior that runs counter to this Code of Conduct.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Containers</title>
-      <link>https://awscommunityday.pt/tracks/containers/</link>
+      <link>http://localhost:1313/tracks/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/containers/</guid>
+      <guid>http://localhost:1313/tracks/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Cost Optimization</title>
-      <link>https://awscommunityday.pt/tracks/cost-optimization/</link>
+      <link>http://localhost:1313/tracks/cost-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/cost-optimization/</guid>
+      <guid>http://localhost:1313/tracks/cost-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer</title>
-      <link>https://awscommunityday.pt/tracks/developer/</link>
+      <link>http://localhost:1313/tracks/developer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/developer/</guid>
+      <guid>http://localhost:1313/tracks/developer/</guid>
       <description></description>
     </item>
     <item>
       <title>Expo</title>
-      <link>https://awscommunityday.pt/rooms/expo/</link>
+      <link>http://localhost:1313/rooms/expo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/rooms/expo/</guid>
+      <guid>http://localhost:1313/rooms/expo/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jeff Barr</title>
-      <link>https://awscommunityday.pt/crew/jeff-barr/</link>
+      <link>http://localhost:1313/crew/jeff-barr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/crew/jeff-barr/</guid>
+      <guid>http://localhost:1313/crew/jeff-barr/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jeff Barr</title>
-      <link>https://awscommunityday.pt/speakers/jeff-barr/</link>
+      <link>http://localhost:1313/speakers/jeff-barr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/speakers/jeff-barr/</guid>
+      <guid>http://localhost:1313/speakers/jeff-barr/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lounge</title>
-      <link>https://awscommunityday.pt/rooms/lounge/</link>
+      <link>http://localhost:1313/rooms/lounge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/rooms/lounge/</guid>
+      <guid>http://localhost:1313/rooms/lounge/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monitoring</title>
-      <link>https://awscommunityday.pt/tracks/monitoring/</link>
+      <link>http://localhost:1313/tracks/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/monitoring/</guid>
+      <guid>http://localhost:1313/tracks/monitoring/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>https://awscommunityday.pt/tracks/security/</link>
+      <link>http://localhost:1313/tracks/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/security/</guid>
+      <guid>http://localhost:1313/tracks/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Styleguide</title>
-      <link>https://awscommunityday.pt/styleguide/</link>
+      <link>http://localhost:1313/styleguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/styleguide/</guid>
+      <guid>http://localhost:1313/styleguide/</guid>
       <description>&lt;div class=&#34;py-5 acd-bg-hexagon-default&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;row justify-content-center justify-content-lg-start&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;col-11 col-lg-8 py-5&#34;&gt;&#xD;&#xA;                &lt;div class=&#34;h1&#34;&gt;AWS Community Day&lt;/div&gt;&#xD;&#xA;                &lt;div class=&#34;h4&#34;&gt;OCT. 3, 2020 | AMSTERDAM | 09:00 - 18:00&lt;/div&gt;&#xD;&#xA;                &lt;div class=&#34;lead&#34;&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam harum quod nihil et! Numquam voluptate architecto nulla, maiores nobis reprehenderit officia debitis voluptatem eos itaque quam iste nesciunt quas?&lt;/div&gt;&#xD;&#xA;                &lt;div class=&#34;buttons my-3&#34;&gt;&#xD;&#xA;                    &lt;a href=&#34;#&#34; class=&#34;btn btn-acd&#34;&gt;Register&lt;/a&gt;&#xD;&#xA;                &lt;/div&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;py-5&#34; style=&#34;background-color: #2a3a4e;&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;row row-gap-3 justify-content-center&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;col-10 col-xl-3 col-md-5&#34;&gt;&#xD;&#xA;                &lt;div class=&#34;block&#34;&gt;&#xD;&#xA;                    &lt;div class=&#34;title&#34;&gt;Lorem ipsum dolor sit amet&lt;/div&gt;&#xD;&#xA;                    &lt;p&gt;Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam iusto deleniti unde facilis. Nulla nisi totam sed excepturi, error voluptates est inventore ab consectetur ex nostrum fuga quo deserunt velit!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Werner Vogels</title>
-      <link>https://awscommunityday.pt/crew/werner-vogels/</link>
+      <link>http://localhost:1313/crew/werner-vogels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/crew/werner-vogels/</guid>
+      <guid>http://localhost:1313/crew/werner-vogels/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Werner Vogels</title>
-      <link>https://awscommunityday.pt/speakers/werner-vogels/</link>
+      <link>http://localhost:1313/speakers/werner-vogels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/speakers/werner-vogels/</guid>
+      <guid>http://localhost:1313/speakers/werner-vogels/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
   </channel>

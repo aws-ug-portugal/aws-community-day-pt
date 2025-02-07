@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tracks on AWS Community Day</title>
-    <link>https://awscommunityday.pt/tracks/</link>
+    <link>http://localhost:1313/tracks/</link>
     <description>Recent content in Tracks on AWS Community Day</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://awscommunityday.pt/tracks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tracks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture</title>
-      <link>https://awscommunityday.pt/tracks/architecture/</link>
+      <link>http://localhost:1313/tracks/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/architecture/</guid>
+      <guid>http://localhost:1313/tracks/architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>Containers</title>
-      <link>https://awscommunityday.pt/tracks/containers/</link>
+      <link>http://localhost:1313/tracks/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/containers/</guid>
+      <guid>http://localhost:1313/tracks/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Cost Optimization</title>
-      <link>https://awscommunityday.pt/tracks/cost-optimization/</link>
+      <link>http://localhost:1313/tracks/cost-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/cost-optimization/</guid>
+      <guid>http://localhost:1313/tracks/cost-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer</title>
-      <link>https://awscommunityday.pt/tracks/developer/</link>
+      <link>http://localhost:1313/tracks/developer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/developer/</guid>
+      <guid>http://localhost:1313/tracks/developer/</guid>
       <description></description>
     </item>
     <item>
       <title>Monitoring</title>
-      <link>https://awscommunityday.pt/tracks/monitoring/</link>
+      <link>http://localhost:1313/tracks/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/monitoring/</guid>
+      <guid>http://localhost:1313/tracks/monitoring/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>https://awscommunityday.pt/tracks/security/</link>
+      <link>http://localhost:1313/tracks/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awscommunityday.pt/tracks/security/</guid>
+      <guid>http://localhost:1313/tracks/security/</guid>
       <description></description>
     </item>
   </channel>
