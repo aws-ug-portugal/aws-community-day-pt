@@ -1,4 +1,4 @@
-baseURL: "https://awsugnl.github.io/hugo-theme-aws-community-day/" # end with /
+baseURL: "https://awscommunityday.pt/" # end with /
 title: "AWS Community Day"
 buildFuture: true # required in case of future events
 

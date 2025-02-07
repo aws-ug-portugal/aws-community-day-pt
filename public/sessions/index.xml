@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sessions on AWS Community Day</title>
-    <link>https://awsugnl.github.io/hugo-theme-aws-community-day/sessions/</link>
+    <link>https://awscommunityday.pt/sessions/</link>
     <description>Recent content in Sessions on AWS Community Day</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Oct 2024 09:15:00 +0000</lastBuildDate>
-    <atom:link href="https://awsugnl.github.io/hugo-theme-aws-community-day/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://awscommunityday.pt/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aliquam accumsan ligula quis nisi tempor</title>
-      <link>https://awsugnl.github.io/hugo-theme-aws-community-day/sessions/dev401/</link>
+      <link>https://awscommunityday.pt/sessions/dev401/</link>
       <pubDate>Thu, 03 Oct 2024 09:15:00 +0000</pubDate>
-      <guid>https://awsugnl.github.io/hugo-theme-aws-community-day/sessions/dev401/</guid>
+      <guid>https://awscommunityday.pt/sessions/dev401/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit</title>
-      <link>https://awsugnl.github.io/hugo-theme-aws-community-day/sessions/arc101/</link>
+      <link>https://awscommunityday.pt/sessions/arc101/</link>
       <pubDate>Thu, 03 Oct 2024 09:00:00 +0000</pubDate>
-      <guid>https://awsugnl.github.io/hugo-theme-aws-community-day/sessions/arc101/</guid>
+      <guid>https://awscommunityday.pt/sessions/arc101/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rooms on AWS Community Day</title>
-    <link>https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/</link>
+    <link>https://awscommunityday.pt/rooms/</link>
     <description>Recent content in Rooms on AWS Community Day</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://awscommunityday.pt/rooms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ballroom</title>
-      <link>https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/ballroom/</link>
+      <link>https://awscommunityday.pt/rooms/ballroom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/ballroom/</guid>
+      <guid>https://awscommunityday.pt/rooms/ballroom/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Expo</title>
-      <link>https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/expo/</link>
+      <link>https://awscommunityday.pt/rooms/expo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/expo/</guid>
+      <guid>https://awscommunityday.pt/rooms/expo/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lounge</title>
-      <link>https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/lounge/</link>
+      <link>https://awscommunityday.pt/rooms/lounge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awsugnl.github.io/hugo-theme-aws-community-day/rooms/lounge/</guid>
+      <guid>https://awscommunityday.pt/rooms/lounge/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam.&lt;/p&gt;</description>
     </item>
   </channel>
