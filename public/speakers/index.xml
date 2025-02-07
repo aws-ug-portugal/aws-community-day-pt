@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on AWS Community Day</title>
+    <link>https://awsugnl.github.io/hugo-theme-aws-community-day/speakers/</link>
+    <description>Recent content in Speakers on AWS Community Day</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://awsugnl.github.io/hugo-theme-aws-community-day/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeff Barr</title>
+      <link>https://awsugnl.github.io/hugo-theme-aws-community-day/speakers/jeff-barr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://awsugnl.github.io/hugo-theme-aws-community-day/speakers/jeff-barr/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Werner Vogels</title>
+      <link>https://awsugnl.github.io/hugo-theme-aws-community-day/speakers/werner-vogels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://awsugnl.github.io/hugo-theme-aws-community-day/speakers/werner-vogels/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus, urna eu varius pretium, nunc lorem malesuada nunc, at interdum libero ex ut quam. Aliquam accumsan ligula quis nisi tempor, sit amet posuere sem finibus. Duis pretium laoreet elit sit amet consequat. Nam eget sapien id quam consequat tincidunt. Aliquam dapibus lectus id erat dictum volutpat. Nunc vitae velit commodo, dignissim orci sed, venenatis risus. Nulla nec leo augue. Proin lobortis, orci vel vulputate iaculis, turpis quam porttitor dui, sed rhoncus massa dolor sit amet mauris. Pellentesque nibh lacus, finibus sit amet turpis quis, scelerisque convallis sem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
