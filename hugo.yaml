@@ -1,5 +1,5 @@
 baseURL: "https://awscommunityday.pt/" # end with /
-title: "AWS Community Day"
+title: "AWS Community Day Portugal 2025"
 buildFuture: true # required in case of future events
 
 markup:

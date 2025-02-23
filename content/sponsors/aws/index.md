@@ -1,5 +1,5 @@
 ---
 title: "AWS"
-level: "silver"
+level: "community"
 website: "https://aws.amazon.com"
 ---
