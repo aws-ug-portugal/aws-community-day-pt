@@ -1,6 +1,7 @@
 ---
 title: "Diego Marques"
 sponsor: "darede"
-headline: "AWS User Group Leader Lisbon"
+headline: ""
 linkedin: "https://www.linkedin.com/in/diego7marques/"
+awstitle: "ugl"
 ---

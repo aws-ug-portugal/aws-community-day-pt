@@ -1,17 +1,11 @@
 {{ define "main" }}
 
-<div class="py-3" style="background: url(img/theme/hexagon1.png) right top no-repeat, radial-gradient(75% 100% at 75% -10%, #371947, #121b2700); background-size: 30%, 100%">
+<div class="mt-3">
     <div class="container">
-        <div class="row justify-content-center justify-content-lg-start">
-            <div class="col-11 col-lg-8 py-5">
-                <div class="h1">COMING SOON</div>
-                <div class="h4">Call for papers is open until 30 Apr 2025.</div>
-                <div class="lead">AWS Community Day Portugal is coming, and we’re looking for <b>passionate speakers</b>! If you have insights, experiences, or innovations to share about AWS, now it's your chance.</div>
-                <div class="buttons my-3">
-                    <!-- <a href="#" class="btn-acd btn-acd-lg">Register</a> -->
-                    <a href="https://sessionize.com/aws-community-day-2025-portugal" class="btn-acd btn-acd-lg">APPLY HERE</a>
-                </div>
-            </div>
+        <div class="row gap-2">
+            {{ range .Page.Pages.ByDate }}
+                {{ partial "session" . }}
+            {{ end }}
         </div>
     </div>
 </div>

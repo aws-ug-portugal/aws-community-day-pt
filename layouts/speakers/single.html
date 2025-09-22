@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<div class="">
+    <div class="mt-5">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-12 col-lg-6">
+                    {{ partial "speaker-lg" . }}
+                </div>
+                {{ if .Content }}
+                <div class="col-12 col-lg-6 mt-lg-0 mt-5 p-5" style="background-color: #314256;">
+                    <h3>Bio</h3>
+                    {{ .Content }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    <div class="mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2>Sessions</h2>
+                </div>
+            {{ $speaker := .File.ContentBaseName }}
+            {{ range .Site.Pages.ByDate }}
+                {{ if in .Params.speakers $speaker }}
+                    {{ partial "session" . }}
+                {{ end }}
+            {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}{{/* end of main */}}

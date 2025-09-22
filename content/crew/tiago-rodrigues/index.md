@@ -1,5 +1,7 @@
 ---
 title: "Tiago Rodrigues"
-headline: "AWS Community Hero"
+sponsor: "tecracer"
+headline: ""
 linkedin: "https://www.linkedin.com/in/tigpt/"
+awstitle: "hero"
 ---

@@ -1,5 +1,7 @@
 ---
 title: "Fabrício Monteiro"
-headline: "AWS User Group Leader Lisbon"
+sponsor: "darede"
+headline: ""
 linkedin: "https://www.linkedin.com/in/wernervogels/"
+awstitle: "ugl"
 ---
