@@ -1,5 +1,6 @@
 ---
 title: "Francisco Edilton"
-headline: "AWS Community Hero"
+headline: ""
 linkedin: "https://www.linkedin.com/in/franciscoed/"
+awstitle: "hero"
 ---

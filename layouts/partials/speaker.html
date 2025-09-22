@@ -1,0 +1,34 @@
+<div class="row align-items-center row-cols-auto position-relative mb-2">
+    <div class="col-4">
+        {{- $img := "" }}
+        {{- if fileExists (printf "%s/%s" .Path "img/photo.png") }}
+            {{- $img = (printf "%s%s" .RelPermalink "img/photo.png") }}
+        {{- else if fileExists (printf "%s/%s" .Path "img/photo.jpg") }}
+            {{- $img = (printf "%s%s" .RelPermalink "img/photo.jpg") }}
+        {{- else }}
+            {{- $img = (printf "%s%s" .Site.BaseURL "img/person.png") }}
+        {{- end }}
+        <a href="{{ .RelPermalink }}" class="stretched-link">
+            <img src="{{ $img }}" class="speaker-photo" />
+        </a>
+    </div>
+    <div class="col-8">
+        <div class="h5">{{ .Title }}</div>
+        <div class="">{{ .Params.headline }}</div>
+        {{ if eq .Params.awstitle "hero" }}
+        <span class="aws-hero">AWS Hero</span>
+        {{ end }}
+        {{ if eq .Params.awstitle "ambassador" }}
+        <span class="aws-ambassador">AWS Ambassador</span>
+        {{ end }}
+        {{ if eq .Params.awstitle "builder" }}
+        <span class="aws-community-builder">AWS Community Builder</span>
+        {{ end }}
+        {{ if eq .Params.awstitle "employee" }}
+        <span class="aws-employee">AWS Employee</span>
+        {{ end }}
+        {{ if eq .Params.awstitle "ugl" }}
+        <span class="aws-ugl">AWS UserGroup Leader</span>
+        {{ end }}
+    </div>
+</div>
