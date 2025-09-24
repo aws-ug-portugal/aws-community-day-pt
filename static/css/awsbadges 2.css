@@ -1,0 +1,57 @@
+.aws-hero {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(90deg, #ff9900 0%, #a16eff 100%);
+}
+
+.aws-employee {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background: #ff9900
+}
+
+.aws-community-builder {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background: #8a0aa6
+}
+
+.aws-ambassador {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background: #69422d
+}
+
+.aws-ugl {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(90deg, #4e1a5a 0%, #43149c 100%);
+}
+
+.speaker-photo {
+    width: 120px;            /* fixed size */
+    height: 120px;           /* fixed size */
+    object-fit: cover;       /* crop and center */
+    border-radius: 50%;      /* circle */
+}
+
