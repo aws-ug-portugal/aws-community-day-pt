@@ -1,6 +1,6 @@
 ---
 title: "Miguel Silva"
-sponsor: "AWS"
+sponsor: "aws"
 headline: "Solutions Architect"
 linkedin: "https://linkedin.com/in/oliveirasilvamiguel/"
 speaker: "keynote"

@@ -1,4 +1,4 @@
 ---
-title: "10:40 - 11:00 Coffee Break"
-date: 2025-09-27T10:40:00
+title: "09:30 - 10:00 Coffee and Networking"
+date: 2025-09-27T09:30:00
 ---

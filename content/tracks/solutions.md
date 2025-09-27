@@ -1,4 +1,4 @@
 ---
-title: "Customer Story"
+title: "Solutions"
 icon: "piggy-bank"
 ---
